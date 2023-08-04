@@ -16,21 +16,21 @@ public class UI {
         }
     }
 
-    public void printMenu(){
+    public void printMenu() {
         System.out.println("1. Show the seats\n" +
                 "2. Buy a ticket\n" +
                 "3. Statistics\n" +
                 "0. Exit");
     }
 
-    public void printStatistics(){
+    public void printStatistics() {
         System.out.println("Number of purchased tickets: " + screenRoom.getNumOfPurchasedTickets() + "\n" +
                 String.format("Percentage: %.2f%%\n", screenRoom.getPercentage()) +
                 "Current income: $" + screenRoom.calculateCurrentIncome() + "\n" +
                 "Total income: $" + screenRoom.calculatePossibleIncome() + "\n");
     }
 
-    public void onInputAction(int input){
+    public void onInputAction(int input) {
         System.out.println();
         switch (input){
             case 1:

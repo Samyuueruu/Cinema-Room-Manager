@@ -15,7 +15,7 @@ public class ScreenRoom {
     private static final int TICKET_PRICE_FIRST_HALF = 10;
     private static final int TICKET_PRICE_SECOND_HALF = 8;
 
-    private void initSeats(){
+    private void initSeats() {
         for (char[] row:seats) {
             Arrays.fill(row, 'S');
         }
@@ -35,21 +35,21 @@ public class ScreenRoom {
         return TICKET_PRICE_SECOND_HALF;
     }
 
-    public static int getTicketPrice(int rows, int cols, int row){
+    public static int getTicketPrice(int rows, int cols, int row) {
         if (rows * cols <= 60 || row < rows / 2) {
             return TICKET_PRICE_FIRST_HALF;
         }
         return TICKET_PRICE_SECOND_HALF;
     }
 
-    public int calculatePossibleIncome(){
+    public int calculatePossibleIncome() {
         if (rows * cols <= 60) {
             return TICKET_PRICE_FIRST_HALF * rows * cols;
         }
         return rows / 2 * cols * TICKET_PRICE_FIRST_HALF + (rows - rows / 2) * cols * TICKET_PRICE_SECOND_HALF; // rows - rows / 2 is equal second half of an odd number
     }
 
-    public int calculateCurrentIncome(){
+    public int calculateCurrentIncome() {
         int sum = 0;
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
@@ -61,7 +61,7 @@ public class ScreenRoom {
         return sum;
     }
 
-    public void selectASeat(){
+    public void selectASeat() {
         Scanner scanner = new Scanner(System.in);
         int row, seat;
 
@@ -89,7 +89,7 @@ public class ScreenRoom {
         printSeats();
     }
 
-    private void setRoomSize(){
+    private void setRoomSize() {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter the number of rows:");
@@ -100,7 +100,7 @@ public class ScreenRoom {
         System.out.println();
     }
 
-    public void printSeats(){
+    public void printSeats() {
         System.out.println("Cinema:");
         System.out.print(" ");
 
@@ -124,7 +124,7 @@ public class ScreenRoom {
         return numOfPurchasedTickets;
     }
 
-    public float getPercentage(){
+    public float getPercentage() {
         return (float) numOfPurchasedTickets / ((float) numOfSeats / 100);
     }
 }

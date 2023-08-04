@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-reports-tests.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Array_exceptions-Calculate_Square.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Array_exceptions-Determine_an_exception.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Array_exceptions-Explore_the_standard_class_library.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Array_exceptions-Is_the_code_fully_protected.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Array_exceptions-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Array_exceptions-Where_an_exception_occurs.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Calling_varargs.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Get_first_and_last_elements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-How_to_invoke_the_method.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Calling_a_method-Call_me_awesome.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Calling_a_method-Invoking_Methods_with_Type_Casting.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Calling_a_method-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Errors_in_programs-Fix_compile-time_errors.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Errors_in_programs-Select_the_statement.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Errors_in_programs-Statements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Errors_in_programs-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-A_quadratic_equation.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-Method_createFullName.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-The_main_tools_of_functional_decomposition.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Iterating_over_arrays-Boxes.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Iterating_over_arrays-Select_loops.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Iterating_over_arrays-Select_one_loop.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Iterating_over_arrays-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Multidimensional_array_features.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Practical_applications.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Rotate_a_rectangle_array.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Avoid_NPE_with_strings.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Lines_that_may_throw_NPE.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Unknown_input.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-String-_Hello__string.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-String-Check_burgs.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-String-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Switch_statement-From_string_to_a_number.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Switch_statement-Shape.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Switch_statement-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_main_method-Fixing_the_main_method.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_main_method-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_main_method-Who_is_the_main.main" target="11" />
+      <module name="Cinema_Room_Manager.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
